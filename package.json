@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-argv-float",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Convert a Node-API value to a single-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
@@ -41,12 +41,12 @@
   "dependencies": {
     "@stdlib/assert-napi-is-type": "^0.2.1",
     "@stdlib/assert-napi-status-ok": "^0.2.1",
-    "@stdlib/napi-argv": "^0.2.1",
+    "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/utils-library-manifest": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.2.1",
-    "@stdlib/utils-try-require": "^0.2.1",
+    "@stdlib/utils-try-require": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
