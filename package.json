@@ -39,13 +39,13 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-napi-is-type": "^0.2.1",
-    "@stdlib/assert-napi-status-ok": "^0.2.1",
+    "@stdlib/assert-napi-is-type": "^0.2.2",
+    "@stdlib/assert-napi-status-ok": "^0.2.2",
     "@stdlib/napi-argv": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.1"
+    "@stdlib/utils-library-manifest": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/assert-is-browser": "^0.2.1",
+    "@stdlib/assert-is-browser": "^0.2.2",
     "@stdlib/utils-try-require": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
