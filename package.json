@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-argv-float",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Convert a Node-API value to a single-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
